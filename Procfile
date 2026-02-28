@@ -1,0 +1,1 @@
+web: python Mediapipe_Integration.py
